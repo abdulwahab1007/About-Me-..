@@ -6,7 +6,7 @@ I'm a Flutter Developer
 
 * 🌍  I'm based in Gujranwala,Pakistan
 * ✉️  You can contact me at [wahabm788@gmail.com](mailto:wahabm788@gmail.com)
-* 🧠  I'm learning Dart
+* 🧠  I'm learning flutter experties
 * 🤝  I'm open to collaborating on Projects
 * ⚡  After Midnight , I Become Batman
 
